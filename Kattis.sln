@@ -1,8 +1,12 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleArea", "RectangleArea\RectangleArea.csproj", "{7F4D0907-3014-409C-A03A-4FB97C76F6A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BranchAssignment", "BranchAssignment\BranchAssignment.csproj", "{FB673FA1-7573-4B6F-95D4-D0F8DBEC28AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -10,5 +14,15 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F4D0907-3014-409C-A03A-4FB97C76F6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F4D0907-3014-409C-A03A-4FB97C76F6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F4D0907-3014-409C-A03A-4FB97C76F6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F4D0907-3014-409C-A03A-4FB97C76F6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB673FA1-7573-4B6F-95D4-D0F8DBEC28AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB673FA1-7573-4B6F-95D4-D0F8DBEC28AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB673FA1-7573-4B6F-95D4-D0F8DBEC28AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB673FA1-7573-4B6F-95D4-D0F8DBEC28AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
